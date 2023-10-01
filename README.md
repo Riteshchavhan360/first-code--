@@ -1,2 +1,5 @@
 # first-code--
-This my first git repository 
+This My First Git Repository.
+<br>
+Author - Ritesh Chavhan
+
